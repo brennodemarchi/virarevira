@@ -1,6 +1,21 @@
 ---
 title: Vira e Revira
 ---
+# Sobre o site
+
+Este site foi desenvolvido com o objetivo de compartilhar os frutos da minha pesquisa de doutorado em Antropologia Social sobre processos e técnicas de compostagem no município de Santos-SP. [...]
+
+# Sobre a pesquisa
+
+ A pesquisa está inserida no Programa de Pós Graduação em Antropologia Social da Universidade Federal de Santa Catarina (UFSC), sob orientação da professora Viviane Vedana, e teve por objetivo analisar o "Composta e Cultiva" [...]
+
+# Jardim Digital (Digital Garden)
+
+Há várias definições do que possam ser Jardins Digitais (Digital Garden), mas acredito que podemos começar dizendo que são espaços para cultivar e distribuir ideias, informações e conhecimentos na rede a partir de repositórios pessoais que podem ser continuamente transformados. [...]
+
+# Metodologia
+
+
 
 [[Composta e Cultiva]]
 
