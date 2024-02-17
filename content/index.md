@@ -11,11 +11,11 @@ Este site foi desenvolvido com o objetivo de compartilhar os frutos da minha pes
 
 # Jardim Digital (Digital Garden)
 
-Há várias definições do que possam ser Jardins Digitais (Digital Garden), mas acredito que podemos começar dizendo que são espaços para cultivar e distribuir ideias, informações e conhecimentos na rede a partir de repositórios pessoais que podem ser continuamente transformados. [...]
+Há várias definições do que possam ser Jardins Digitais (Digital Garden), mas acredito que podemos começar dizendo que são espaços para cultivar e distribuir ideias, informações e conhecimentos na rede a partir de repositórios pessoais que podem ser continuamente transformados. É uma mescla entre ser um blog e uma wiki. [...]
 
-# Metodologia
+# Como este site foi desenvolvido?
 
-
+O que você está lendo é um arquivo de texto gerado pelo [Obsidian](https://obsidian.md) e transformado em uma página web com o plugin [Quartz](https://quartz.jzhao.xyz), desenvolvido por [Jacky Zhao](https://github.com/jackyzha0/quartz). [...]
 
 [[Composta e Cultiva]]
 
