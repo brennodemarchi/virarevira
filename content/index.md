@@ -8,7 +8,8 @@ Este site foi desenvolvido com o objetivo de compartilhar os frutos da minha pes
 
 # Sobre a pesquisa
 
- A pesquisa está inserida no Programa de Pós Graduação em Antropologia Social da Universidade Federal de Santa Catarina (UFSC), sob orientação da professora Viviane Vedana, e teve por objetivo analisar o "Composta e Cultiva" [...]
+ A pesquisa está inserida no Programa de Pós Graduação em Antropologia Social da Universidade Federal de Santa Catarina (UFSC), sob orientação da professora Viviane Vedana, e teve por objetivo analisar o "Composta e Cultiva", uma Organização da Sociedade Civil que busca proporcionar alternativas e soluções mais sustentáveis por meio da compostagem, do cultivo e da gestão eficiente e consciente dos resíduos.
+  [...]
 
 # Jardim Digital (Digital Garden)
 
