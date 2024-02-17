@@ -1,6 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
+
 [[Composta e Cultiva]]
 
 This is a blank Quartz installation.
