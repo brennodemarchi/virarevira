@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "pt-BR",
+    locale: "en-US",
     baseUrl: "https://github.com/brennodemarchi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
