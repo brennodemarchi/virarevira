@@ -5,7 +5,7 @@ tags: parcerias, projetos
 ---
 
 > [!nav]  Menu
-> [[index | Início]] [[Cartografia]] [[Sobre a pesquisa]]  [[Sobre o site]] [[Sobre mim]]
+> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
 
 Realizado por:
 - [[Projeto Sementes das Palafitas]]

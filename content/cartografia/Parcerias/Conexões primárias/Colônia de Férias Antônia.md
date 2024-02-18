@@ -2,7 +2,7 @@
 tag: clientes
 ---
 > [!nav]  Menu
-> [[index | Início]] [[Cartografia]] [[Sobre a pesquisa]]  [[Sobre o site]] [[Sobre mim]]
+> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
 
 
 # Links

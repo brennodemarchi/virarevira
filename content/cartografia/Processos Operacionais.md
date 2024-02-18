@@ -4,7 +4,7 @@ tags:
   - processos
 ---
 > [!nav]  Menu
-> [[index | Início]] [[Cartografia]] [[Sobre a pesquisa]]  [[Sobre o site]] [[Sobre mim]]
+> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
 # Processos Operacionais 
 
 ## 1. Entrega e Coleta do baldinho
