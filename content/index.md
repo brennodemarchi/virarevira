@@ -1,5 +1,5 @@
 ---
-title: Vira e Revira
+title: Início
 ---
 
 # Sobre o site
