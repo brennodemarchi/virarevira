@@ -3,6 +3,8 @@ tags:
   - composta-cultiva
   - processos
 ---
+> [!nav]  Menu
+> [[index | Início]] [[Cartografia]] [[Sobre a pesquisa]]  [[Sobre o site]] [[Sobre mim]]
 # Processos Operacionais 
 
 ## 1. Entrega e Coleta do baldinho

@@ -1,2 +1,0 @@
-
-O que você está lendo é um arquivo de texto gerado pelo [Obsidian](https://obsidian.md) e transformado em uma página web com o plugin [Quartz](https://quartz.jzhao.xyz), desenvolvido por [Jacky Zhao](https://github.com/jackyzha0/quartz). [...]
