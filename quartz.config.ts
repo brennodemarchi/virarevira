@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Vira e Revira: Digital Garden",
+    pageTitle: "Vira e Revira - Digital Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "pt-BR",
+    baseUrl: "https://github.com/brennodemarchi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
