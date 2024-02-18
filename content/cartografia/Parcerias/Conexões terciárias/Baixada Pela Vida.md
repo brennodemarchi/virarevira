@@ -1,8 +1,7 @@
 ---
 tag: parcerias, projetos
 ---
-> [!nav]  Menu
-> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
+
 # Realizadores
 
 - [[Arte no Dique]]
