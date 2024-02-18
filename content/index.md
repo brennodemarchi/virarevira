@@ -1,7 +1,7 @@
 ---
 title: Início
 ---
-> [!top Menu]
+> [!Menu]
 > [[Composta e Cultiva]] [[Sobre a pesquisa]]  [[Digital Gardens]] [[Desenvolvimento do site]]
 
 ## Sobre o site
