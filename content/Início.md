@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Início
 ---
 [[Composta e Cultiva]]
 
@@ -19,3 +19,6 @@ O que você está lendo é um arquivo de texto gerado pelo [Obsidian](https://ob
 # Jardim Digital (Digital Garden)
 
 Há várias definições do que possam ser Jardins Digitais (Digital Garden), mas acredito que podemos começar dizendo que são espaços para cultivar e distribuir ideias, informações e conhecimentos na rede a partir de repositórios pessoais que podem ser continuamente transformados. É uma mescla entre ser um blog e uma wiki. [...]
+
+
+
