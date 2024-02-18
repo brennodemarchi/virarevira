@@ -2,6 +2,8 @@
 title: Início
 ---
 
+[[Composta e Cultiva]]
+
 # Sobre o site
 
 Este site foi desenvolvido com o objetivo de compartilhar os frutos da minha pesquisa de doutorado em Antropologia Social sobre processos e técnicas de compostagem no município de Santos-SP. [...]
@@ -18,6 +20,4 @@ Há várias definições do que possam ser Jardins Digitais (Digital Garden), ma
 # Como este site foi desenvolvido?
 
 O que você está lendo é um arquivo de texto gerado pelo [Obsidian](https://obsidian.md) e transformado em uma página web com o plugin [Quartz](https://quartz.jzhao.xyz), desenvolvido por [Jacky Zhao](https://github.com/jackyzha0/quartz). [...]
-
-[[Composta e Cultiva]]
 
