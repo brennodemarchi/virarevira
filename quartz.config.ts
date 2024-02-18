@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Vira e Revira - Digital Garden",
+    pageTitle: "Vira e Revira",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
