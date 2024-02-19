@@ -14,6 +14,6 @@ No início da pesquisa, quando elaborava o projeto de pesquisa, tive a oportunid
 
 # Cartografia
 
-Para acessar a cartografia da ecologia do Composta e Cultiva, basta clicar [neste link](obsidian://open?vault=virarevira&file=content%2Fcartografia%2FComposta%20%26%20Cultiva).
+Para acessar a cartografia da ecologia do Composta e Cultiva, basta clicar [[Parcerias |neste link]].
 
 
