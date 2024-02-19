@@ -1,5 +1,5 @@
 > [!nav]  Menu
-> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
+> [[index | Início]]    [[Pesquisa]]    [[Site]]    [[Pesquisador]]    [[Contato]]
 
 
 

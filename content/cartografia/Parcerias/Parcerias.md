@@ -2,7 +2,7 @@
 tag: composta-cultiva
 ---
 > [!nav]  Menu
-> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
+> [[index | Início]]  [[Pesquisa]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
 ## Parceiros
 
 - [[Articulação Brasileira pela Economia de Francisco e Clara (Núcleo Baixada Santista)]]

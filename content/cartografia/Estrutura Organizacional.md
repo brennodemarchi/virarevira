@@ -1,3 +1,5 @@
+> [!faq]  Sumário
+> [[Estrutura Organizacional]] [[Processos Operacionais]] [[Parcerias]] 
 
 # Arquitetura Informacional
 

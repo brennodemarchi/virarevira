@@ -1,16 +1,5 @@
----
-tags: []
----
-> [!nav]  Menu
-> [[index | Início]]  [[Cartografia]]  [[Contexto]]  [[Site]]  [[Pesquisador]]  [[Contato]]
-
-# Composta e Cultiva
-
-## Sumário
-
-- [[Estrutura Organizacional]]
-- [[Processos Operacionais]]
-- [[Parcerias]]
+> [!faq]  Sumário
+> [[Estrutura Organizacional]] [[Processos Operacionais]] [[Parcerias]] 
 
 ## Empreendimento Socioambiental Colaborativo
 
@@ -104,7 +93,7 @@ Oferecemos também um manual em formato digital, e o acompanhamento do processo,
 	- Empresas
 	- Clubes
 
-*** Valores e disponibilidade dos serviços sob consulta**
+**Valores e disponibilidade dos serviços sob consulta**
 
 ## Cases de Sucesso
 
@@ -118,4 +107,3 @@ O Composta & Cultiva foi responsável pela gestão de resíduos das 3 últimas e
 [Instagram](https://www.instagram.com/compostaecultiva/)
 [Facebook](https://www.facebook.com/compostaecultiva)
 [Formulário de Cadastro](https://docs.google.com/forms/d/e/1FAIpQLSdgWJjVGnGf1zLKyQDOjq2K4FD_Pqqvy6gs2YEcBSB4rI3ouw/viewform)
-

@@ -3,6 +3,9 @@ tags:
   - composta-cultiva
   - processos
 ---
+> [!faq]  Sumário
+> [[Estrutura Organizacional]] [[Processos Operacionais]] [[Parcerias]] 
+
 # Processos Operacionais 
 
 ## 1. Entrega e Coleta do baldinho

@@ -20,7 +20,7 @@ A origem do Programa teve inspiração nas certificações ambientais já existe
 - [[Santos Lixo Zero]]
 - [[ONG Sem Fronteira]]
 - [[Projeto Óleo Noel]]
-- [[Cartografia]]
+- [[Composta & Cultiva]]
 - [[Composta Santos]]
 - [[biolitoral]]
 - [[Del Mare]]
