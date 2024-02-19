@@ -1,5 +1,6 @@
 > [!faq]  Sumário
-> [[Estrutura Organizacional]] [[Processos Operacionais]] [[Parcerias]] 
+> [[Composta & Cultiva]] [[Parcerias]]
+> [[Estrutura Organizacional]] [[Processos Operacionais]] 
 
 # Arquitetura Informacional
 
