@@ -1,7 +1,7 @@
 > [!nav]  Menu
 > [[index | Início]]    [[Pesquisa]]    [[Site]]    [[Pesquisador]]    [[Contato]]
 
-**Brenno Brandalise Demarchi** nasceu em Santos-SP, em 11 de Outubro de 1994. Doutorando e Mestre em Antropologia Social (UFSC – Florianópolis-SC). No mestrado desenvolveu uma pesquisa sobre conscientização, infraestruturas e qualidade da água no Estado de São Paulo. Graduado com Bacharelado e Licenciatura em Ciências Sociais (UNESP – Marília-SP), onde realizou uma pesquisa sobre a mobilidade urbana de Marília-SP, atrelando a fotografia e a etnografia. Também é Técnico em Informática pela ETEC Aristóteles Ferreira, em Santos (SP), onde desenvolveu em grupo um software para a gestão comercial de estabelecimentos gastronômicos de Santos-SP.
+Doutorando e Mestre em Antropologia Social (UFSC – Florianópolis-SC). No mestrado desenvolveu uma pesquisa sobre conscientização, infraestruturas e qualidade da água no Estado de São Paulo. Graduado no Bacharelado e Licenciatura em Ciências Sociais (UNESP – Marília-SP), onde realizou uma pesquisa sobre a mobilidade urbana de Marília-SP, atrelando a fotografia e a etnografia. Também é Técnico em Informática pela ETEC Aristóteles Ferreira, em Santos (SP), desenvolvendo em grupo um software para a gestão comercial de estabelecimentos gastronômicos de Santos-SP.
 ## Atuação como pesquisador:
 
 Têm artigos e capítulos de livro publicados em periódicos acadêmicos de Antropologia e Sociologia (_Associação Brasileira de Antropologia_; _Revista Sociologias Plurais_ – UFPR; _Gesto, Imagem e Som – Revista de Antropologia_ - USP).
